@@ -25,7 +25,7 @@ We welcome contributions from the community to help improve and extend our platf
 
 ## Resources
 
-- **Documentation**: Find all the essential documentation, guides, and support materials [here](https://docs.ozurapay.com).
+- **Documentation**: Find all the essential documentation, guides, and support materials [here](https://docs.ozura.com).
 - **Contact Sales**: Have a question? Want to become a partner? Contact our sales team [here](https://www.ozurapay.com/contact).
 - **Become a Partner**: Explore partnership opportunities and earn more with competitive pricing and additional product offerings.
 
